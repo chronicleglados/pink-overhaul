@@ -4,7 +4,7 @@
     "name": "Pink Overhaul",
     "description": "A resource pack for people who's favorite color is PINK",
     "uuid": "74cac5b6-cb88-44ab-b637-4aa161e77e5e",
-    "version": [1, 1, 1],
+    "version": [1, 2, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [

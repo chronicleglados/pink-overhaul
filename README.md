@@ -12,5 +12,6 @@
       <li>totems have magenta eyes</li>
       <li>the master icon on villagers, instead of diamond, is now magenta</li>
       <li>cherry leaves are now more saturated</li>
+      <li>DO NOT RELY ON THIS LIST, THIS IS NOT UPDATED, LOOK ON CURSEFORGE</li>
   </html>
 </body>
